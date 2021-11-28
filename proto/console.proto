@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package api;
 
-option go_package = "proto/console";
+option go_package = "https://github.com/chefpavlodar/APISERV";
 
 service Console {
 
