@@ -10,5 +10,6 @@ func main() {
 
 	fmt.Println("Go........")
 	logger.PrintAll()
+	logger.PrintAll()
 
 }
